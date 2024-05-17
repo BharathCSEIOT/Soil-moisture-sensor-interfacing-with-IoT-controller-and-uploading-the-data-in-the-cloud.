@@ -143,7 +143,7 @@ void loop() {
 ## OUTPUT:
 <img height=30% width=40% src=https://github.com/BharathCSEIOT/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/122793480/75ea7552-7bf9-445e-8bd0-932a2e72bbfe>
 
-<img height=70% width=80% src=https://github.com/BharathCSEIOT/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/122793480/329c9542-a0ad-4bec-9117-5bac44ef2e0c>
+![image](https://github.com/BharathCSEIOT/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/122793480/329c9542-a0ad-4bec-9117-5bac44ef2e0c)
 
 ## RESULT:
 
