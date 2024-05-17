@@ -45,7 +45,7 @@ Bread board </br>
 
 Internet of Things (IoT) describes an emerging trend where a large number of embedded devices (things) are connected to the Internet. These connected devices communicate with people and other things and often provide sensor data to cloud storage and cloud computing resources where the data is processed and analyzed to gain important insights. Cheap cloud computing power and increased device connectivity is enabling this trend.IoT solutions are built for many vertical applications such as environmental monitoring and control, health monitoring, vehicle fleet monitoring, industrial monitoring and control, and home automation
 
-![image](https://user-images.githubusercontent.com/71547910/235334044-c01d4261-d46f-4f62-b07f-72a7b6fce5d5.png)
+<img height=20% width=30% src=https://user-images.githubusercontent.com/71547910/235334044-c01d4261-d46f-4f62-b07f-72a7b6fce5d5.png>
 
 ### Soil moisture sensor 
 
@@ -58,7 +58,7 @@ D0 pin is a digital output
 GND pin is a Ground
 This module also includes a potentiometer that will fix the threshold value, & the value can be evaluated by the comparator-LM393.
 
-![image](https://github.com/anishkumar-Embedded/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/71547910/6926d6ff-bbf2-4421-b3e5-d7c19a7ba5b6)
+<img height=20% width=30% src=https://github.com/anishkumar-Embedded/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/71547910/6926d6ff-bbf2-4421-b3e5-d7c19a7ba5b6>
 
 This sensor mainly utilizes capacitance to gauge the water content of the soil (dielectric permittivity). The working of this sensor can be done by inserting this sensor into the earth and the status of the water content in the soil can be reported in the form of a percent.This sensor makes it perfect to execute experiments within science courses like environmental science, agricultural science, biology, soil science, botany, and horticulture.
 
@@ -68,7 +68,7 @@ The LoRaWAN® specification is a Low Power, Wide Area (LPWA) networking protocol
 
 The specification defines the device-to-infrastructure (LoRa®) physical layer parameters & (LoRaWAN®) protocol and so provides seamless interoperability between manufacturers, as demonstrated via the device certification program.While the specification defines the technical implementation, it does not define any commercial model or type of deployment (public, shared, private, enterprise) and so offers the industry the freedom to innovate and differentiate how it is used.The LoRaWAN® specification is developed and maintained by the LoRa Alliance®: an open association of collaborating members.
 
-![image](https://github.com/anishkumar-Embedded/Update-the-Ultrasonic-sensor-value-in-cloud/assets/71547910/c63c4edd-3b95-4a69-b9c2-4862afb335c3)
+<img height=20% width=30% src=https://github.com/anishkumar-Embedded/Update-the-Ultrasonic-sensor-value-in-cloud/assets/71547910/c63c4edd-3b95-4a69-b9c2-4862afb335c3>
 
 ### Characteristics of LoRaWAN technology
 Long range communication up to 10 miles in line of sight.
@@ -141,9 +141,9 @@ void loop() {
 ![image](https://github.com/BharathCSEIOT/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/122793480/9526e1e0-16f3-46e7-b8d6-a23a7c690f7f)
 
 ## OUTPUT:
-![image](https://github.com/BharathCSEIOT/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/122793480/75ea7552-7bf9-445e-8bd0-932a2e72bbfe)
+<img height=30% width=40% src=https://github.com/BharathCSEIOT/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/122793480/75ea7552-7bf9-445e-8bd0-932a2e72bbfe>
 
-![image](https://github.com/BharathCSEIOT/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/122793480/329c9542-a0ad-4bec-9117-5bac44ef2e0c)
+<img height=70% width=80% src=https://github.com/BharathCSEIOT/Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud./assets/122793480/329c9542-a0ad-4bec-9117-5bac44ef2e0c>
 
 ## RESULT:
 
